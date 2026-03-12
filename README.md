@@ -1,5 +1,7 @@
 # MblockPrograms
  Programas creados en Mblock para el curso "Habilidades Maker para educación con Escornabot"
+
+ Estos juegos están creados para ayudar a niños entre 3 y 5 años a mejorar sus habilidades cognitivas usando el modelo de robot "Escornabot"
  
  **JuegoGraveAgudo** es un juego musical para aprender a diferenciar los sonidos agudos y graves.
  
